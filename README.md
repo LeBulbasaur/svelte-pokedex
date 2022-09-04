@@ -1,5 +1,5 @@
 # Svelte Pokedex
-The simple svelte project built just for learning purposes. I learnt from [this](https://www.youtube.com/watch?v=UU7MgYIbtAk&list=PLldIs95112B7EDjK-g_C9CPqGuVRBIRUp&index=71&t=2756s) video, which I think is a great place to start learning svelte. I've also used [PokeAPI](https://pokeapi.co/) to display some interesting data.
+The simple svelte project built just for learning purposes. I learnt from [this](https://www.youtube.com/watch?v=UU7MgYIbtAk&list=PLldIs95112B7EDjK-g_C9CPqGuVRBIRUp&index=71) video, which I think is a great place to start learning svelte. I've also used [PokeAPI](https://pokeapi.co/) to display some interesting data.
 
 # create-svelte
 
